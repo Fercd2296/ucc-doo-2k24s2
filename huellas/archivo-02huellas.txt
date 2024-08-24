@@ -1,0 +1,6 @@
+.
+├── README.md
+├── archivo-01huellas.txt
+└── archivo-02huellas.txtr
+
+0 directories, 3 files
