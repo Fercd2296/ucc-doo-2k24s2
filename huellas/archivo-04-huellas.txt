@@ -1,0 +1,6 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 18:50 ?        00:00:00 /init
+root         7     1  0 18:50 ?        00:00:00 /init
+root         8     7  0 18:50 ?        00:00:00 /init
+fercd        9     8  0 18:50 pts/0    00:00:01 -bash
+fercd      621     9  0 20:36 pts/0    00:00:00 ps -fea
