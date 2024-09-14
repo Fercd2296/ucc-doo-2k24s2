@@ -5,6 +5,7 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{73152521-E451-4570-8F86-98DA57260A28}" Name="basico-01" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="basico-01.prj"/>
+		<Model Expanded="Yes" ID="{7680DC1D-48AF-4DBF-AE46-A6B5D6B2F91D}" Name="Sistema_Apuestas" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../Sistema_Apuestas/Sistema_Apuestas.prj"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
